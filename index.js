@@ -6,7 +6,7 @@ score = 0
 //input
 
 var username = readlineSync.question("Hi ! What's your name ? ");
-console.log("Welcome " + username + ", Let's check Are you a good fan of naruto?.");
+console.log("Welcome " + username + ", Let's check whether you are a good fan of naruto?.");
 
 // function 
 
